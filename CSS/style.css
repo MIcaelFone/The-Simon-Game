@@ -1,0 +1,71 @@
+body{
+
+    background-color:#343D5D;
+
+}
+
+h1{ 
+
+    font-family: 'Inknut Antiqua', serif;
+    font-size: 4rem;
+    color: white;
+    margin-left: 30rem;
+    margin-top: 2rem;
+
+}
+
+#game{
+
+    display: grid;
+    margin: 3rem;
+    margin-left: 36rem;
+    gap: 3rem;
+    grid-template-columns: 1fr 4fr;
+    margin-top: 6rem;
+      
+}
+
+.azul{
+
+    background-color:blue;
+    border-radius: 15%;
+    width: 12rem;
+    height: 12rem;
+    border: 10px solid #05060a;
+}
+
+.verde{
+    
+    background-color:green;
+    border-radius: 15%;
+    width: 12rem;
+    height: 12rem;
+    border: 10px solid #05060a;
+
+}
+
+.vermelho{
+
+    background-color:red;
+    border-radius: 15%;
+    width: 12rem;
+    height: 12rem;
+    border: 10px solid #05060a;
+
+}
+
+.amarelo{
+    
+    background-color:yellow;
+    border-radius: 15%;
+    width: 12rem;
+    height: 12rem;
+    border: 10px solid #05060a;
+
+}
+
+.game-over{
+    background-color: red;
+    opacity: 0.5;
+    
+}
