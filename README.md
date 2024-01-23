@@ -3,4 +3,4 @@
 <br>
 <br>
 <h1> Como funciona o jogo?</h1>
-<p> O jogo possui 4 botões de cores diferentes:amarelo,azul,verde,vermelho. Em cada fase numa forma aleatória acende um botão e para passar de fase o jogador precisa repetir a sequência de botões acendidos tanto em fasses anteriores e na fase atual.Caso o jogador erre a sequência,ele perde o jogo </p>
+<p> O jogo apresenta quatro botões com tonalidades distintas: amarelo, azul, verde e vermelho. A cada fase, de maneira aleatória, um botão é acendido e, para avançar de fase, o jogador precisa repetir a sequência de botões acendidos tanto em fases anteriores quanto na atual. Se o jogador falhar na sequência, ele perderá o jogo. </p>
