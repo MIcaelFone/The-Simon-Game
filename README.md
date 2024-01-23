@@ -5,8 +5,8 @@
 <p> O jogo apresenta quatro botões com tonalidades distintas: amarelo, azul, verde e vermelho. A cada fase, de maneira aleatória, um botão é acendido e, para avançar de fase, o jogador precisa repetir a sequência de botões acendidos tanto em fases anteriores quanto na atual. Se o jogador falhar na sequência, ele perderá o jogo. </p>
 <br>
 <h1>Quais foram as linguagem utilizadas?</h1>
-<ol>
+<ul>
   <li>JQuery</li>
    <li>HTML</li>
    <li>CSS</li>
-</ol>
+</ul>
