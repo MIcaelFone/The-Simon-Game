@@ -13,8 +13,8 @@ O jogo apresenta quatro botões com tonalidades distintas: amarelo, azul, verde 
 
 O Simon Game foi desenvolvido utilizando as seguintes tecnologias:
 - **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)** 
-- **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)** ![CSS Icon](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- **[jQuery](https://jquery.com/)** ![jQuery Icon](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+- **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)**
+- **[jQuery](https://jquery.com/)** 
   
 ## 📂 Como Executar o Projeto
 
