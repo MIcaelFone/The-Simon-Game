@@ -16,9 +16,10 @@ O Simon Game foi desenvolvido utilizando as seguintes tecnologias:
 - **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)**
 - **[jQuery](https://jquery.com/)** 
   
-## 📂 Como Executar o Projeto
+## 📂 Como Clonar o Projeto
 
 1. **Clone o Repositório**
 
    ```bash
    git clone https://github.com/SeuUsuario/Simon-Game.git
+   cd The-Simon-Game
