@@ -22,4 +22,4 @@ O Simon Game foi desenvolvido utilizando as seguintes tecnologias:
 
    ```bash
    git clone https://github.com/MIcaelFone/The-Simon-Game.git
-   cd The-Simon-Game.
+   cd The-Simon-Game
