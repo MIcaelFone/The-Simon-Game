@@ -19,7 +19,7 @@ O Simon Game foi desenvolvido utilizando as seguintes tecnologias:
 <img src="images/site.png"> </img>
 ## 📂 Como Clonar o Projeto
 
-1. **Clone o Entrar no repositório**
+1. **Clonar e entrar no repositório**
 
    ```bash
    git clone https://github.com/MIcaelFone/The-Simon-Game.git
